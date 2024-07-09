@@ -1,3 +1,3 @@
-# DSCI310_project
+# STAT301_project
 
-DSCI 310 project
+STAT 301 project
